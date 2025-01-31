@@ -6,6 +6,7 @@ Este proyecto implementa una API RESTful para gestionar una colección de pelíc
 
 La estructura del proyecto está organizada de la siguiente:
 
+```
 .
 ├── controllers
 │   └── movies.js
@@ -20,6 +21,7 @@ La estructura del proyecto está organizada de la siguiente:
 │   └── movies.js
 ├── utils.js
 └── app.js
+```
 
 ### `app.js`
 
