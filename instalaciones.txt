@@ -1,0 +1,8 @@
+npm init -yes
+npm install semistandard -D
+npm install nodemon -D
+npm install express -E
+npm install zod -E
+npm install mongodb -E 
+
+
